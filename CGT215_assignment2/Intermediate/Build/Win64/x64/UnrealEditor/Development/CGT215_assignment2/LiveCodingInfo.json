@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CGT215_assignment2.gen.cpp.obj": [
+			"CGT215_assignment2.init.gen.cpp.obj",
+			"HelloWorld.gen.cpp.obj"
+		]
+	}
+}

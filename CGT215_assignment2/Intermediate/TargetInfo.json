@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CGT215_assignment2",
+			"Path": "..\\Source\\CGT215_assignment2.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CGT215_assignment2Editor",
+			"Path": "..\\Source\\CGT215_assignment2Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

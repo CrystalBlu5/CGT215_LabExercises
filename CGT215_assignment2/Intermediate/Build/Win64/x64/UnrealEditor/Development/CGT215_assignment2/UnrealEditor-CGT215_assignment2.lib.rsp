@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CGT215_assignment2.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/unrealtest/CGT215_assignment2/Intermediate/Build/Win64/x64/CGT215_assignment2Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/unrealtest/CGT215_assignment2/Intermediate/Build/Win64/x64/UnrealEditor/Development/CGT215_assignment2/Module.CGT215_assignment2.gen.cpp.obj"
+"C:/unrealtest/CGT215_assignment2/Intermediate/Build/Win64/x64/UnrealEditor/Development/CGT215_assignment2/CGT215_assignment2.cpp.obj"
+"C:/unrealtest/CGT215_assignment2/Intermediate/Build/Win64/x64/UnrealEditor/Development/CGT215_assignment2/HelloWorld.cpp.obj"
+"C:/unrealtest/CGT215_assignment2/Intermediate/Build/Win64/x64/UnrealEditor/Development/CGT215_assignment2/PerModuleInline.gen.cpp.obj"
+"C:/unrealtest/CGT215_assignment2/Intermediate/Build/Win64/x64/UnrealEditor/Development/CGT215_assignment2/Default.rc2.res"
+/OUT:"C:/unrealtest/CGT215_assignment2/Intermediate/Build/Win64/x64/UnrealEditor/Development/CGT215_assignment2/UnrealEditor-CGT215_assignment2.lib"

@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealtest\\myproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myproject\\module.myproject.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealtest\\myproject\\intermediate\\build\\win64\\x64\\myprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unrealtest\\myproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myproject\\definitions.myproject.h",
+            "c:\\unrealtest\\myproject\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject\\uht\\helloworld.gen.cpp",
+            "c:\\unrealtest\\myproject\\source\\myproject\\public\\helloworld.h",
+            "c:\\unrealtest\\myproject\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject\\uht\\helloworld.generated.h",
+            "c:\\unrealtest\\myproject\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject\\uht\\myproject.init.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MyProject.gen.cpp.obj": [
+			"HelloWorld.gen.cpp.obj",
+			"MyProject.init.gen.cpp.obj"
+		]
+	}
+}

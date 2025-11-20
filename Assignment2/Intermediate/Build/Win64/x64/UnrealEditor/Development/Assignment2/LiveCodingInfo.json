@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Assignment2.gen.cpp.obj": [
+			"Assignment2.init.gen.cpp.obj",
+			"Sieve.gen.cpp.obj"
+		]
+	}
+}

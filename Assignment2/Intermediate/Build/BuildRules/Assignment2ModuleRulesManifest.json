@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\unrealtest\\Assignment2\\Source\\Assignment2\\Assignment2.Build.cs",
+		"C:\\unrealtest\\Assignment2\\Source\\Assignment2.Target.cs",
+		"C:\\unrealtest\\Assignment2\\Source\\Assignment2Editor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealtest\\assignment2\\source\\assignment2\\assignment2.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealtest\\assignment2\\intermediate\\build\\win64\\x64\\assignment2editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unrealtest\\assignment2\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\assignment2\\definitions.assignment2.h",
+            "c:\\unrealtest\\assignment2\\source\\assignment2\\assignment2.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
